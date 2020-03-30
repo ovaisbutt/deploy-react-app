@@ -42,11 +42,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   display: -webkit-box;
-  display: flex;
+  /* display: flex; */
   -webkit-box-align: center;
-  align-items: center;
+  /* align-items: center; */
   -webkit-box-pack: center;
-  justify-content: center;
+  /* justify-content: center; */
 }
 
 .counter {
