@@ -32,8 +32,12 @@ html {
   height: 100%;
 }
 
+h1, h4 {
+  font-family: 'Great Vibes';
+}
+
 body {
-  background-color: #fff;
+  background-color: #5D5D5D;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -52,7 +56,7 @@ body {
   -webkit-box-pack: center;
   justify-content: center;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: #5D5D5D;
 }
 
 .entry {
@@ -187,3 +191,4 @@ body {
     transform: rotate(360deg);
   }
 }
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
